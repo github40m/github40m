@@ -1,0 +1,4 @@
+t_mall_class1(分类表)
+------------------------
+Id(编号)            PKInteger
+flmch(分类名称)     String（100）
